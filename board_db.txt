@@ -1,0 +1,5 @@
+1 | hi | hello my name is john | john | 1
+2 | hello | It's 9'o clock now | J.Kim | 2
+3 | today | today is april 20th Monday 2020 | Kim | 0
+4 | good morning | good afternoon | good evening | 1
+5 | a | a | a | 0
